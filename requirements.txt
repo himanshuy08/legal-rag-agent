@@ -1,0 +1,11 @@
+chromadb
+PyMuPDF
+langchain
+langchain-ollama
+langchain-community
+langchain
+gradio
+requests
+numpy
+duckduckgo-search
+langgraph
